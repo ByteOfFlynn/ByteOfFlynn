@@ -24,10 +24,10 @@
 ### 📱Connect with Me!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ian-flynn-a4999535b/" target="_blank" style="margin-right: 20px;">
+  <a href="https://www.linkedin.com/in/ian-flynn-a4999535b/" target="_blank" style="margin-right: 100px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="mailto:byteofflynn@gmail.com" target="_blank" style="margin-right: 20px;">
+  <a href="mailto:byteofflynn@gmail.com" target="_blank" style="margin-right: 100px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://teams.microsoft.com/l/chat/0/0?users=byteofflynn@gmail.com" target="_blank">
